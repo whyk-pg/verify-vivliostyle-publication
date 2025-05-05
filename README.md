@@ -1,4 +1,4 @@
-# Learn Vivliostyle
+# Verify Vivliostyle publication
 <!-- ![Status: ToDo](https://flat.badgen.net/static/Status/ToDo/red) -->
 ![Status: In Progress](https://flat.badgen.net/static/Status/In%20Progress/yellow)
 <!-- ![Status: Done](https://flat.badgen.net/static/Status/Done/green) -->
