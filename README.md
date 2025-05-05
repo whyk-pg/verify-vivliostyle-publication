@@ -12,6 +12,7 @@ VivliostyleでA6の文庫本を作成できる環境を構築する
 - [ ] monorepoで文庫本の作成環境を構築
 - [ ] 独自の奥付を作成
 - [ ] 奥付にQRコードを埋め込み
+- [ ] 作成環境のDeno化
 
 ## 参考資料
 - [Vivliostyle — Enjoy CSS Typesetting!](https://vivliostyle.org)
