@@ -1,6 +1,6 @@
 /* gihyo.jpの記事から抜粋 */
 :root {
-  --vs-page--size: JIS-B6;
   --vs-theme--num-of-line: 14;
   --vs-theme--num-of-character: 40;
+  --vs-font-size-on-print: 65%;
 }

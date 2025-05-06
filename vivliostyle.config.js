@@ -4,7 +4,7 @@ const config = {
   title: 'learn-vivliostyle', // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
   author: 'WhyK', // default to `author` in `package.json` or undefined.
   language: 'ja', // default to undefined.
-  size: 'B6', // paper size.
+  size: 'A6', // paper size.
   theme: ['@vivliostyle/theme-bunko@^2.0.0', 'theme/theme.css'], // .css or local dir or npm package. default to undefined.
   entry: [
     'manuscript.md', // `title` is automatically guessed from the file (frontmatter > first heading).
